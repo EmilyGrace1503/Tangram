@@ -1,7 +1,6 @@
 #pragma once
 #include "Triangulo.h"
 
-
 class Scene {
 public:
 	Scene()
