@@ -1,0 +1,15 @@
+
+#version 330 core
+
+// Ouput 
+uniform vec3 colorT;
+out vec3 color;
+
+
+void main()
+{
+
+	// Output color = red 
+	color = colorT;
+
+}
